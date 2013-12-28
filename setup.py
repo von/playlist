@@ -5,13 +5,13 @@ except:
     from distutils.core import setup
 
 setup(
-    name="playist",
+    name="playlist",
     version="0.1",
-    packages=["playist"],
+    packages=["playlist"],
     # http://pythonhosted.org/setuptools/setuptools.html#automatic-script-creation  # noqa
     entry_points={
         'console_scripts': [
-            'playist = playist.playist:main',
+            'playlist = playlist.playlist:main',
         ],
     },
 
