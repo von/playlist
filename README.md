@@ -20,7 +20,7 @@ Add files to a playlist:
     playlist add <playlist file> <pattern>
 
 Where `pattern` is either a directory or a glob. If a directory, all
-mp3s under that diretory are found and added.
+mp3s under that directory are found and added.
 
 Check files in playlist to make sure they exist:
 
