@@ -3,7 +3,7 @@ playlist
 
 A script for managing mp3 playlists.
 
-https://github.com/von/playlist
+[https://github.com/von/playlist](https://github.com/von/playlist)
 
 Installation
 ------------
